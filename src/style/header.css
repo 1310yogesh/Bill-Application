@@ -1,0 +1,13 @@
+.header {
+    background-color: #6287ee;
+    padding: 10px;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.css-1tv88k9-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: "#dfefff" !important;
+    color: "#6287ee" !important
+  }
